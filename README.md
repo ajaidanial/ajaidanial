@@ -15,4 +15,7 @@
     <a href="mailto:ajaidanial@gmail.com">
         <img src="https://img.shields.io/badge/Mail--_.svg?style=social&logo=gmail" />
     </a>
+    <a href="https://ajaidanial.wtf/assets/Ajai-Danial-Resume.pdf">
+        <img src="https://img.shields.io/badge/Resume--_.svg?style=social" />
+    </a>
 </p>
