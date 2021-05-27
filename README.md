@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-<img src="./assets/gatsby.gif" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaidanial&show_icons=true&hide_border=true&count_private=true&theme=highcontrast" />
 
 <p>
 	<a href="https://www.linkedin.com/in/ajaidanial/">
