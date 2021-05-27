@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+This is Ajai, and I love building scalable and bulletproof software applications!
+
 <img src="https://github-readme-stats.vercel.app/api?username=ajaidanial&show_icons=true&hide_border=true&count_private=true&theme=highcontrast" />
 
 <p>
